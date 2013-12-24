@@ -157,7 +157,7 @@ Project::Environment::Role - Moose role for Project::Environment
 
 =head1 VERSION
 
-version v1.1.0
+version v1.2.0
 
 =head1 DESCRIPTION
 
